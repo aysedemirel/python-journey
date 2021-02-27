@@ -15,5 +15,15 @@ It is my journey with Python. In this journey, I aim that learn Python in detail
 
 - [ ] [Practice Python](https://github.com/jwasham/practice-python)
 - [ ] [Awesome Python](https://github.com/vinta/awesome-python)
+- [ ] [Awesome-Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [ ] [Algorithms with Python](https://github.com/TheAlgorithms/Python)
+- [ ] [Algorithms with Python - Project Euler](https://github.com/nyucel/algoritma)
 - [ ] [30 seconds of Python](https://github.com/30-seconds/30-seconds-of-python/tree/master/snippets)
+- [ ] [OpenCv book Python](https://github.com/birolkuyumcu/opencvbook_python)
+
+
+## Sample Project
+
+- [ ] [Human Detection and Tracking](https://github.com/ITCoders/Human-detection-and-Tracking)
+- [ ] [Kefir](https://github.com/yogurt-cultures/kefir)
+- [ ] [Stone Paper Scissor](https://github.com/satinder147/stone_paper_scissor_defeator_using_opencv_keras)
