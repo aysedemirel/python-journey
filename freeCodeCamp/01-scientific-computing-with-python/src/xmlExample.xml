@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<example xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsdExample.xsd">
+  <person>
+    <customer>John Smith</customer>
+    <start>2002-09-24</customer>
+    <startdate>2002-05-30T09:30:10Z</startdate>
+    <prize>999.50</prize>
+    <weeks>30</weeks>
+  </person>
+</example>
